@@ -1,0 +1,27 @@
+﻿@model EducacionWeb.Models.Login
+@{
+    ViewData["Title"] = "Login";
+}
+
+<body>
+    <section>
+        <div class="container-lg col-4">
+            <h1>Bienvenido a ICES</h1>
+            <form asp-action="Login" method="POST">
+                <!-- Usuario -->
+                <div class="input-group mb-3">
+                    <label asp-for="Usuario" class="input-group-text"></label>
+                    <input asp-for="Usuario" type="text" class="form-control" placeholder="Ingresar usuario" id="usuario">
+                </div>
+                <!-- Contraseña -->
+                <div class="input-group mb-3">
+                    <label asp-for="Contraseña" class="input-group-text"></label>
+                    <input asp-for="Contraseña" type="password" class="form-control" placeholder="Ingresar Contraseña" id="contraseña">
+                </div>
+                <button onclick="login()" type="submit" class="btn btn-primary">Ingresar</button>
+            </form>
+        </div>
+    </section>
+</body>
+
+
