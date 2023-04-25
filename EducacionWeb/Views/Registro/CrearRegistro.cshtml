@@ -1,0 +1,41 @@
+﻿@model EducacionWeb.Models.Registro
+@{
+    ViewData["Title"] = "Registro";
+}
+
+<div class="container-lg col-4">
+    <h1>Pantalla de registro</h1>
+    <form asp-action="CrearRegistro" method="POST">
+        <!-- Nombre -->
+        <div class="input-group mb-3">
+            <label asp-for="Nombre" class="input-group-text">Nombre</label>
+            <input asp-for="Nombre" type="text" class="form-control" placeholder="Ingresar Nombre" id="nombre">
+        </div>
+        <!-- Apellido -->
+        <div class="input-group mb-3">
+            <label asp-for="Apellido" class="input-group-text">Apellido</label>
+            <input asp-for="Apellido" type="text" class="form-control" placeholder="Ingresar Apellido" id="apellido">
+        </div>
+        <!-- Fecha de nacimiento -->
+        <div class="input-group mb-3">
+            <label asp-for="FechaNacimiento" class="input-group-text">Fecha de nacimiento</label>
+            <input asp-for="FechaNacimiento" type="date" class="form-control" id="fechaNacimiento">
+        </div>
+        <!-- Genero -->
+        @foreach (var Genero in Enum.GetValues(typeof(Genero)))
+        {
+            <div class="custom-control custom-radio custom-control-inline ">
+                <label><input type="radio" asp-for="Genero" value="@Genero" />@Genero</label>
+            </div>
+        }
+        <!-- Ciudad -->
+        <div class="form-group mb-3 mt-3">
+            <label asp-for="Ciudad" class="form-label"></label>
+            <select asp-for="Ciudad" asp-items="Html.GetEnumSelectList<Ciudad>()" class="form-select">
+                <option selected="selected" value="">Ciudad</option>
+            </select>
+            <span asp-validation-for="Ciudad" class="text-danger" />
+        </div>
+        <button type="submit" class="btn btn-primary">Guardar</button>
+    </form>
+</div>

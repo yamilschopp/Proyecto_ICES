@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "U4gGq1juVxZiVzqZ4IlIjKJYqAqwdk3xtJvTm/2xX/A=",
+  "Hash": "bQ12m86sGRrpfygfUKFDXx6S+TewE2ylH0mXRWbixXY=",
   "Source": "EducacionWeb",
   "BasePath": "_content/EducacionWeb",
   "Mode": "Default",
@@ -85,12 +85,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\yschopp\\source\\repos\\EducacionWeb\\EducacionWeb\\wwwroot\\ices.png",
+      "Identity": "C:\\Users\\yschopp\\source\\repos\\EducacionWeb\\EducacionWeb\\wwwroot\\Img\\ices.png",
       "SourceId": "EducacionWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\yschopp\\source\\repos\\EducacionWeb\\EducacionWeb\\wwwroot\\",
       "BasePath": "_content/EducacionWeb",
-      "RelativePath": "ices.png",
+      "RelativePath": "Img/ices.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -99,15 +99,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ices.png"
+      "OriginalItemSpec": "wwwroot\\Img\\ices.png"
     },
     {
-      "Identity": "C:\\Users\\yschopp\\source\\repos\\EducacionWeb\\EducacionWeb\\wwwroot\\ICES1.jpg",
+      "Identity": "C:\\Users\\yschopp\\source\\repos\\EducacionWeb\\EducacionWeb\\wwwroot\\Img\\ICES1.jpg",
       "SourceId": "EducacionWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\yschopp\\source\\repos\\EducacionWeb\\EducacionWeb\\wwwroot\\",
       "BasePath": "_content/EducacionWeb",
-      "RelativePath": "ICES1.jpg",
+      "RelativePath": "Img/ICES1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -116,15 +116,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ICES1.jpg"
+      "OriginalItemSpec": "wwwroot\\Img\\ICES1.jpg"
     },
     {
-      "Identity": "C:\\Users\\yschopp\\source\\repos\\EducacionWeb\\EducacionWeb\\wwwroot\\ICES2.jpeg",
+      "Identity": "C:\\Users\\yschopp\\source\\repos\\EducacionWeb\\EducacionWeb\\wwwroot\\Img\\ICES2.jpeg",
       "SourceId": "EducacionWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\yschopp\\source\\repos\\EducacionWeb\\EducacionWeb\\wwwroot\\",
       "BasePath": "_content/EducacionWeb",
-      "RelativePath": "ICES2.jpeg",
+      "RelativePath": "Img/ICES2.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -133,15 +133,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ICES2.jpeg"
+      "OriginalItemSpec": "wwwroot\\Img\\ICES2.jpeg"
     },
     {
-      "Identity": "C:\\Users\\yschopp\\source\\repos\\EducacionWeb\\EducacionWeb\\wwwroot\\ICES3.jpg",
+      "Identity": "C:\\Users\\yschopp\\source\\repos\\EducacionWeb\\EducacionWeb\\wwwroot\\Img\\ICES3.jpg",
       "SourceId": "EducacionWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\yschopp\\source\\repos\\EducacionWeb\\EducacionWeb\\wwwroot\\",
       "BasePath": "_content/EducacionWeb",
-      "RelativePath": "ICES3.jpg",
+      "RelativePath": "Img/ICES3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -150,15 +150,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ICES3.jpg"
+      "OriginalItemSpec": "wwwroot\\Img\\ICES3.jpg"
     },
     {
-      "Identity": "C:\\Users\\yschopp\\source\\repos\\EducacionWeb\\EducacionWeb\\wwwroot\\imagen1.jpeg",
+      "Identity": "C:\\Users\\yschopp\\source\\repos\\EducacionWeb\\EducacionWeb\\wwwroot\\Img\\imagen1.jpeg",
       "SourceId": "EducacionWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\yschopp\\source\\repos\\EducacionWeb\\EducacionWeb\\wwwroot\\",
       "BasePath": "_content/EducacionWeb",
-      "RelativePath": "imagen1.jpeg",
+      "RelativePath": "Img/imagen1.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -167,15 +167,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagen1.jpeg"
+      "OriginalItemSpec": "wwwroot\\Img\\imagen1.jpeg"
     },
     {
-      "Identity": "C:\\Users\\yschopp\\source\\repos\\EducacionWeb\\EducacionWeb\\wwwroot\\imagen2.jpg",
+      "Identity": "C:\\Users\\yschopp\\source\\repos\\EducacionWeb\\EducacionWeb\\wwwroot\\Img\\imagen2.jpg",
       "SourceId": "EducacionWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\yschopp\\source\\repos\\EducacionWeb\\EducacionWeb\\wwwroot\\",
       "BasePath": "_content/EducacionWeb",
-      "RelativePath": "imagen2.jpg",
+      "RelativePath": "Img/imagen2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -184,15 +184,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagen2.jpg"
+      "OriginalItemSpec": "wwwroot\\Img\\imagen2.jpg"
     },
     {
-      "Identity": "C:\\Users\\yschopp\\source\\repos\\EducacionWeb\\EducacionWeb\\wwwroot\\imagen3.jpeg",
+      "Identity": "C:\\Users\\yschopp\\source\\repos\\EducacionWeb\\EducacionWeb\\wwwroot\\Img\\imagen3.jpeg",
       "SourceId": "EducacionWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\yschopp\\source\\repos\\EducacionWeb\\EducacionWeb\\wwwroot\\",
       "BasePath": "_content/EducacionWeb",
-      "RelativePath": "imagen3.jpeg",
+      "RelativePath": "Img/imagen3.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -201,15 +201,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagen3.jpeg"
+      "OriginalItemSpec": "wwwroot\\Img\\imagen3.jpeg"
     },
     {
-      "Identity": "C:\\Users\\yschopp\\source\\repos\\EducacionWeb\\EducacionWeb\\wwwroot\\imagen4.jpeg",
+      "Identity": "C:\\Users\\yschopp\\source\\repos\\EducacionWeb\\EducacionWeb\\wwwroot\\Img\\imagen4.jpeg",
       "SourceId": "EducacionWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\yschopp\\source\\repos\\EducacionWeb\\EducacionWeb\\wwwroot\\",
       "BasePath": "_content/EducacionWeb",
-      "RelativePath": "imagen4.jpeg",
+      "RelativePath": "Img/imagen4.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -218,7 +218,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagen4.jpeg"
+      "OriginalItemSpec": "wwwroot\\Img\\imagen4.jpeg"
     },
     {
       "Identity": "C:\\Users\\yschopp\\source\\repos\\EducacionWeb\\EducacionWeb\\wwwroot\\js\\generics.js",
